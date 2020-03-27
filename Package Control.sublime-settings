@@ -2,9 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"A File Icon",
+		"All Autocomplete",
+		"ApplySyntax",
+		"GitGutter"
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
